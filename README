@@ -1,0 +1,15 @@
+# Fancode API Test Automation Project
+
+## Prerequisites
+- JDK 8 or later
+- Maven 3.6 or later
+- Selenium
+- Rest Assured
+- Extent Report
+
+## Setup
+1. Clone the repository.
+   ```bash
+   git clone https://github.com/yourusername/repo-name.git
+   cd repo-name
+   maven install
